@@ -1,0 +1,1 @@
+ADMIN,A0001,admin,admin123,admin@store.com,0000000000,Administrator
